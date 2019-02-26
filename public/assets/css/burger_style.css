@@ -1,0 +1,23 @@
+body{
+    background-color: #f8f0b9;
+}
+h1{
+    color: red
+}
+.available{
+      
+    background-color: #fcf7da;
+    
+}
+.image{
+    align-content: center;
+}
+.devoured{
+     
+    background-color: #fcf7da;
+    
+}
+.btn{
+    background-color: rgb(62, 62, 153);
+    color:white;
+}
